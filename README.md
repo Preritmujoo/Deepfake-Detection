@@ -1,4 +1,4 @@
-# Deepfake Detection
+# Deepfake Detection Using Deep Learning
 
 ![Deepfake Detection](https://github.com/Preritmujoo/Deepfake-Detection/assets/95234935/970efa49-90d9-4230-b526-8d2f7932a75a)
 
@@ -35,3 +35,5 @@ Include some results or metrics to demonstrate the performance of your model. Th
 | Metric        | Value   |
 |---------------|---------|
 | Accuracy      |60% - 70% |
+
+### Note: Kandi Kit Installer is necessary to run this Deepfake Detection file.
